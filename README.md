@@ -1,2 +1,2 @@
 # PizzaAssignment
-Build own Pizaa
+Build own Pizza
